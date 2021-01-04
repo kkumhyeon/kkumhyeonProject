@@ -1,0 +1,9 @@
+{
+  "name": "kkumhyeon",
+  "version": "1.0.0",
+  "description": "KKUMHYEON 2020",
+  "main": "index.js",
+  "repository": "https://github.com/kkumhyeon/kkumhyeonProject",
+  "author": "cucumen<cucumen@naver,com",
+  "license": "MIT"
+}
